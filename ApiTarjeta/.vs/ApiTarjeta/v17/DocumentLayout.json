@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{F96A1028-B521-445D-AE3F-C822B01B39D7}|ApiTarjeta\\ApiTarjeta.csproj|solutionrelative:apitarjeta\\controllers\\tarjetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F96A1028-B521-445D-AE3F-C822B01B39D7}|ApiTarjeta\\ApiTarjeta.csproj|d:\\netcore\\apitarjetas\\apitarjeta\\apitarjeta\\apitarjeta\\casosdeuso\\updatetarjetausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96A1028-B521-445D-AE3F-C822B01B39D7}|ApiTarjeta\\ApiTarjeta.csproj|solutionrelative:apitarjeta\\casosdeuso\\updatetarjetausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96A1028-B521-445D-AE3F-C822B01B39D7}|ApiTarjeta\\ApiTarjeta.csproj|d:\\netcore\\apitarjetas\\apitarjeta\\apitarjeta\\apitarjeta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96A1028-B521-445D-AE3F-C822B01B39D7}|ApiTarjeta\\ApiTarjeta.csproj|solutionrelative:apitarjeta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F96A1028-B521-445D-AE3F-C822B01B39D7}|ApiTarjeta\\ApiTarjeta.csproj|d:\\netcore\\apitarjetas\\apitarjeta\\apitarjeta\\apitarjeta\\dtos\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F96A1028-B521-445D-AE3F-C822B01B39D7}|ApiTarjeta\\ApiTarjeta.csproj|solutionrelative:apitarjeta\\dtos\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,40 +75,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\appsettings.json",
-              "RelativeDocumentMoniker": "ApiTarjeta\\appsettings.json",
-              "ToolTip": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\appsettings.json",
-              "RelativeToolTip": "ApiTarjeta\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-22T02:51:23.489Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\Program.cs",
+              "RelativeDocumentMoniker": "ApiTarjeta\\Program.cs",
+              "ToolTip": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\Program.cs",
+              "RelativeToolTip": "ApiTarjeta\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T23:46:37.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Tarjeta.cs",
-              "DocumentMoniker": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\Dtos\\Tarjeta.cs",
-              "RelativeDocumentMoniker": "ApiTarjeta\\Dtos\\Tarjeta.cs",
-              "ToolTip": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\Dtos\\Tarjeta.cs",
-              "RelativeToolTip": "ApiTarjeta\\Dtos\\Tarjeta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Title": "UpdateTarjetaUseCase.cs",
+              "DocumentMoniker": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\CasosDeUso\\UpdateTarjetaUseCase.cs",
+              "RelativeDocumentMoniker": "ApiTarjeta\\CasosDeUso\\UpdateTarjetaUseCase.cs",
+              "ToolTip": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\CasosDeUso\\UpdateTarjetaUseCase.cs",
+              "RelativeToolTip": "ApiTarjeta\\CasosDeUso\\UpdateTarjetaUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T02:15:49.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TarjetaDBContext.cs",
-              "DocumentMoniker": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\Data\\TarjetaDBContext.cs",
-              "RelativeDocumentMoniker": "ApiTarjeta\\Data\\TarjetaDBContext.cs",
-              "ToolTip": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\Data\\TarjetaDBContext.cs",
-              "RelativeToolTip": "ApiTarjeta\\Data\\TarjetaDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T02:13:00.881Z",
+              "WhenOpened": "2024-07-22T23:22:22.92Z",
               "EditorCaption": ""
             },
             {
@@ -111,9 +106,46 @@
               "RelativeDocumentMoniker": "ApiTarjeta\\Controllers\\TarjetaController.cs",
               "ToolTip": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\Controllers\\TarjetaController.cs",
               "RelativeToolTip": "ApiTarjeta\\Controllers\\TarjetaController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAawC8AAAAIAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwDQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T00:02:12.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiTarjeta\\appsettings.json",
+              "ToolTip": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\appsettings.json",
+              "RelativeToolTip": "ApiTarjeta\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T02:51:23.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tarjeta.cs",
+              "DocumentMoniker": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\Dtos\\Tarjeta.cs",
+              "RelativeDocumentMoniker": "ApiTarjeta\\Dtos\\Tarjeta.cs",
+              "ToolTip": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\Dtos\\Tarjeta.cs",
+              "RelativeToolTip": "ApiTarjeta\\Dtos\\Tarjeta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:15:49.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarjetaDBContext.cs",
+              "DocumentMoniker": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\Data\\TarjetaDBContext.cs",
+              "RelativeDocumentMoniker": "ApiTarjeta\\Data\\TarjetaDBContext.cs",
+              "ToolTip": "D:\\NetCore\\ApiTarjetas\\ApiTarjeta\\ApiTarjeta\\ApiTarjeta\\Data\\TarjetaDBContext.cs",
+              "RelativeToolTip": "ApiTarjeta\\Data\\TarjetaDBContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvx4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:13:00.881Z",
               "EditorCaption": ""
             }
           ]

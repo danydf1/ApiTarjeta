@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiTarjeta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9e7096b3721bd41f34ecfe7bb1bad5762216b69")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiTarjeta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiTarjeta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

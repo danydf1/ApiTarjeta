@@ -1,3 +1,4 @@
+using ApiTarjeta.CasosDeUso;
 using ApiTarjeta.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -15,6 +16,8 @@ builder.Services.AddDbContext<TarjetaDBContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection"));
 });
+
+builder.Services.AddScoped<IUpdateTarjetaUseCase, UpdateTarjetaUseCase>();
 
 var app = builder.Build();
 

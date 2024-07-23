@@ -134,3 +134,4 @@ D:\NetCore\ApiTarjetas\ApiTarjeta\ApiTarjeta\ApiTarjeta\obj\Debug\net8.0\refint\
 D:\NetCore\ApiTarjetas\ApiTarjeta\ApiTarjeta\ApiTarjeta\obj\Debug\net8.0\ApiTarjeta.pdb
 D:\NetCore\ApiTarjetas\ApiTarjeta\ApiTarjeta\ApiTarjeta\obj\Debug\net8.0\ApiTarjeta.genruntimeconfig.cache
 D:\NetCore\ApiTarjetas\ApiTarjeta\ApiTarjeta\ApiTarjeta\obj\Debug\net8.0\ref\ApiTarjeta.dll
+D:\NetCore\ApiTarjetas\ApiTarjeta\ApiTarjeta\ApiTarjeta\obj\Debug\net8.0\ApiTarjeta.sourcelink.json
